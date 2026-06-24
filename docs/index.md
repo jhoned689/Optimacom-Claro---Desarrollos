@@ -8,10 +8,10 @@ Repositorio de seguimiento de automatizaciones Optimacom / Claro.
 
 ## Enlaces
 
+- [**Proyectos de desarrollo**](proyectos/README.md) — cada desarrollo con sus actividades
 - [Próximos entregables](PROXIMOS-ENTREGABLES.md) — miércoles y viernes
-- [Cómo publicar en GitHub](GITHUB.md)
 - [Ejecución completa (CSV)](../data/ejecucion-desarrollo.csv)
-- [Avance por proyecto (CSV)](../data/avance-proyectos.csv)
+- [Proyectos (JSON)](../data/proyectos.json)
 
 ## Avance actual
 

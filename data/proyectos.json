@@ -1,0 +1,1835 @@
+[
+  {
+    "nombre": "REVISION ACTA PACC - FACC SERVICIOS",
+    "slug": "revision-acta-pacc-facc-servicios",
+    "estado": "HOY",
+    "avance": 0.85,
+    "total_actividades": 8,
+    "realizadas": 3,
+    "en_curso": 1,
+    "pendientes": 4,
+    "inicio": "14/05/2026",
+    "proxima_fecha": "24/06/2026",
+    "proxima_entregable": "Módulo servicios listo para prueba con actas reales",
+    "actividades": [
+      {
+        "fase": "Levantamiento",
+        "actividades": "Identificación validaciones manuales",
+        "entregable": "Proceso de Mejora de Automatizacion Revisiones",
+        "fecha": "14/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Diseño",
+        "actividades": "UX/UI módulo validaciones",
+        "entregable": "Revision Documental",
+        "fecha": "12/06/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Desarrollo",
+        "actividades": "Construcción lógica validaciones",
+        "entregable": "Primera versión documental módulo servicios",
+        "fecha": "17/06/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Socialización inicio pruebas usuarios",
+        "entregable": "Módulo servicios listo para prueba con actas reales",
+        "fecha": "24/06/2026",
+        "estado": "HOY",
+        "avance": 0.85,
+        "notas": "Mié 24/06 — flujo V7 + validaciones core"
+      },
+      {
+        "fase": "Cambios",
+        "actividades": "Ajustes post-prueba desarrollo",
+        "entregable": "Segunda versión con correcciones servicios",
+        "fecha": "27/06/2026",
+        "estado": "PENDIENTE",
+        "avance": 0.85,
+        "notas": "Vie 27/06 — ajustes + pruebas servicios"
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Segunda ronda validación usuarios",
+        "entregable": "Validación operativa servicios post-ajustes",
+        "fecha": "27/06/2026",
+        "estado": "PENDIENTE",
+        "avance": 0.9,
+        "notas": "Vie 27/06 — meta ~90% servicios"
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Estabilización y cierre hallazgos",
+        "entregable": "Servicios listos para documentación",
+        "fecha": "01/07/2026",
+        "estado": "PENDIENTE",
+        "avance": 0.92,
+        "notas": "Mié 01/07"
+      },
+      {
+        "fase": "Documentación",
+        "actividades": "Manual técnico y usuario",
+        "entregable": "Documentación entregada servicios",
+        "fecha": "03/07/2026",
+        "estado": "PENDIENTE",
+        "avance": 0,
+        "notas": "Vie 03/07"
+      }
+    ]
+  },
+  {
+    "nombre": "REVISION ACTA PACC - FACC HW",
+    "slug": "revision-acta-pacc-facc-hw",
+    "estado": "HOY",
+    "avance": 0.5,
+    "total_actividades": 8,
+    "realizadas": 3,
+    "en_curso": 1,
+    "pendientes": 4,
+    "inicio": "27/05/2026",
+    "proxima_fecha": "24/06/2026",
+    "proxima_entregable": "Módulo HW demostración funcional parcial",
+    "actividades": [
+      {
+        "fase": "Levantamiento",
+        "actividades": "Diseño estructura revisión actas",
+        "entregable": "Modelo UX/UI inicial",
+        "fecha": "27/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Diseño",
+        "actividades": "UX/UI revisión documental",
+        "entregable": "Revision Documental",
+        "fecha": "12/06/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Desarrollo",
+        "actividades": "Construcción automatizaciones",
+        "entregable": "Primera versión Documental módulo HW",
+        "fecha": "17/06/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Socialización inicio pruebas usuarios",
+        "entregable": "Módulo HW demostración funcional parcial",
+        "fecha": "24/06/2026",
+        "estado": "HOY",
+        "avance": 0.5,
+        "notas": "Mié 24/06 — alcance parcial vs servicios"
+      },
+      {
+        "fase": "Cambios",
+        "actividades": "Ajustes post-prueba desarrollo",
+        "entregable": "Segunda versión con correcciones HW",
+        "fecha": "27/06/2026",
+        "estado": "PENDIENTE",
+        "avance": 0.55,
+        "notas": "Vie 27/06 — ajustes + pruebas HW"
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Segunda ronda validación usuarios",
+        "entregable": "Validación operativa HW post-ajustes",
+        "fecha": "27/06/2026",
+        "estado": "PENDIENTE",
+        "avance": 0.6,
+        "notas": "Vie 27/06 — pruebas HW"
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Estabilización módulo HW",
+        "entregable": "HW estable para documentación",
+        "fecha": "01/07/2026",
+        "estado": "PENDIENTE",
+        "avance": 0.65,
+        "notas": "Mié 01/07"
+      },
+      {
+        "fase": "Documentación",
+        "actividades": "Manual técnico y usuario",
+        "entregable": "Documentación entregada HW",
+        "fecha": "08/07/2026",
+        "estado": "PENDIENTE",
+        "avance": 0,
+        "notas": "Mié 08/07"
+      }
+    ]
+  },
+  {
+    "nombre": "REVISION ACTAS LIQUIDACION - HW",
+    "slug": "revision-actas-liquidacion-hw",
+    "estado": "HOY",
+    "avance": 0.5,
+    "total_actividades": 7,
+    "realizadas": 4,
+    "en_curso": 1,
+    "pendientes": 2,
+    "inicio": "14/05/2026",
+    "proxima_fecha": "24/06/2026",
+    "proxima_entregable": "Primera demostración checklist HW",
+    "actividades": [
+      {
+        "fase": "Levantamiento",
+        "actividades": "Identificación validaciones manuales",
+        "entregable": "Proceso de Mejora de Automatizacion Revisiones",
+        "fecha": "14/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Diseño",
+        "actividades": "Diseño estructura revisión actas",
+        "entregable": "Modelo UX/UI inicial",
+        "fecha": "27/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "SharePoint",
+        "actividades": "UX/UI revisión documental",
+        "entregable": "Revision Documental",
+        "fecha": "12/06/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Desarrollo",
+        "actividades": "Construcción aplicación",
+        "entregable": "Primera versión Documentada HW",
+        "fecha": "17/06/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Socialización módulo auditoría HW",
+        "entregable": "Primera demostración checklist HW",
+        "fecha": "24/06/2026",
+        "estado": "HOY",
+        "avance": 0.5,
+        "notas": "Mié 24/06 — alineado con PACC-FACC HW"
+      },
+      {
+        "fase": "Cambios",
+        "actividades": "Ajustes pruebas usuarios",
+        "entregable": "Segunda versión funcional estable HW",
+        "fecha": "27/06/2026",
+        "estado": "PENDIENTE",
+        "avance": 0.55,
+        "notas": "Vie 27/06 — ajustes módulo HW"
+      },
+      {
+        "fase": "Lanzamiento",
+        "actividades": "Socialización módulo liberado",
+        "entregable": "Módulo HW liberado usuarios piloto",
+        "fecha": "10/07/2026",
+        "estado": "PENDIENTE",
+        "avance": 0,
+        "notas": "Vie 10/07 — meta julio cronograma Oscar"
+      }
+    ]
+  },
+  {
+    "nombre": "REVISION LINEA A LINEA HW",
+    "slug": "revision-linea-a-linea-hw",
+    "estado": "HOY",
+    "avance": 0.15,
+    "total_actividades": 1,
+    "realizadas": 0,
+    "en_curso": 1,
+    "pendientes": 0,
+    "inicio": "24/06/2026",
+    "proxima_fecha": "24/06/2026",
+    "proxima_entregable": "Documento oportunidades automatización video",
+    "actividades": [
+      {
+        "fase": "Investigación",
+        "actividades": "Análisis videos proceso Maira",
+        "entregable": "Documento oportunidades automatización video",
+        "fecha": "24/06/2026",
+        "estado": "HOY",
+        "avance": 0.2,
+        "notas": "Mié 24/06 — base validación línea a línea"
+      }
+    ]
+  },
+  {
+    "nombre": "VALIDACION HW LINEA A LINEA NOKIA-LOCAL",
+    "slug": "validacion-hw-linea-a-linea-nokia-local",
+    "estado": "HOY",
+    "avance": 0.15,
+    "total_actividades": 3,
+    "realizadas": 0,
+    "en_curso": 1,
+    "pendientes": 2,
+    "inicio": "24/06/2026",
+    "proxima_fecha": "24/06/2026",
+    "proxima_entregable": "Demo investigación revisión videos HW con IA",
+    "actividades": [
+      {
+        "fase": "Levantamiento",
+        "actividades": "Presentación modelo automatización videos IA",
+        "entregable": "Demo investigación revisión videos HW con IA",
+        "fecha": "24/06/2026",
+        "estado": "HOY",
+        "avance": 0.15,
+        "notas": "Mié 24/06 — modelo/concepto, no productivo"
+      },
+      {
+        "fase": "Diseño",
+        "actividades": "Diseño validación automatizada HW",
+        "entregable": "Modelo funcional validación línea a línea",
+        "fecha": "03/07/2026",
+        "estado": "PENDIENTE",
+        "avance": 0.15,
+        "notas": "Vie 03/07 — retomar post PACC/FACC"
+      },
+      {
+        "fase": "Desarrollo",
+        "actividades": "Construcción validación HW piloto",
+        "entregable": "Validación automática funcional piloto",
+        "fecha": "15/07/2026",
+        "estado": "PENDIENTE",
+        "avance": 0,
+        "notas": "Mié 15/07"
+      }
+    ]
+  },
+  {
+    "nombre": "GESTION ACCESOS EB",
+    "slug": "gestion-accesos-eb",
+    "estado": "PROCESO",
+    "avance": 0.9,
+    "total_actividades": 2,
+    "realizadas": 1,
+    "en_curso": 1,
+    "pendientes": 0,
+    "inicio": "12/06/2026",
+    "proxima_fecha": "14/08/2026",
+    "proxima_entregable": "Aplicación en pruebas funcional",
+    "actividades": [
+      {
+        "fase": "Levantamiento",
+        "actividades": "Revisión accesos y permisos actuales",
+        "entregable": "Mapa flujo accesos EB",
+        "fecha": "12/06/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Desarrollo",
+        "actividades": "Construcción automatización accesos",
+        "entregable": "Aplicación en pruebas funcional",
+        "fecha": "14/08/2026",
+        "estado": "PROCESO",
+        "avance": 0.4,
+        "notas": "Vie 14/08 — Andrea"
+      }
+    ]
+  },
+  {
+    "nombre": "GESTION FIRMAS ACTAS DE LIQUIDACION",
+    "slug": "gestion-firmas-actas-de-liquidacion",
+    "estado": "PROCESO",
+    "avance": 0.9,
+    "total_actividades": 2,
+    "realizadas": 1,
+    "en_curso": 1,
+    "pendientes": 0,
+    "inicio": "27/05/2026",
+    "proxima_fecha": "15/07/2026",
+    "proxima_entregable": "Entrada a producción tras aval Gestión de Riesgos",
+    "actividades": [
+      {
+        "fase": "Automatización",
+        "actividades": "Firma masiva y control estados",
+        "entregable": "Automatización completa líderes regionales",
+        "fecha": "27/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Producción",
+        "actividades": "Salida productiva",
+        "entregable": "Entrada a producción tras aval Gestión de Riesgos",
+        "fecha": "15/07/2026",
+        "estado": "PROCESO",
+        "avance": 0.9,
+        "notas": "Mié 15/07 — app ~90%, pendiente aval producción"
+      }
+    ]
+  },
+  {
+    "nombre": "RADICACION ACTAS DE LIQUIDACION (FIRMAS)",
+    "slug": "radicacion-actas-de-liquidacion-firmas",
+    "estado": "PROCESO",
+    "avance": 0.9,
+    "total_actividades": 18,
+    "realizadas": 16,
+    "en_curso": 2,
+    "pendientes": 0,
+    "inicio": "27/03/2026",
+    "proxima_fecha": "17/07/2026",
+    "proxima_entregable": "Versión estable en producción",
+    "actividades": [
+      {
+        "fase": "Levantamiento",
+        "actividades": "Revisión proceso",
+        "entregable": "Conocimiento del proceso completo",
+        "fecha": "27/03/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Levantamiento",
+        "actividades": "Revisión proceso",
+        "entregable": "Propuesta TO-BE",
+        "fecha": "08/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Diseño",
+        "actividades": "UX, estructura",
+        "entregable": "Diseño Sharepoint - Listas - Usuarios - Base",
+        "fecha": "08/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Desarrollo",
+        "actividades": "Construcción App",
+        "entregable": "Segunda version UI Aplicacion",
+        "fecha": "15/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Desarrollo",
+        "actividades": "Construcción App",
+        "entregable": "Segunda version UI Aplicacion",
+        "fecha": "22/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Documentación",
+        "actividades": "Construcción App",
+        "entregable": "Tercera Version UX UI Aplicacion",
+        "fecha": "24/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Prueba Funcionamiento",
+        "entregable": "Cuarta version UI Aplicacion + Pruebas",
+        "fecha": "29/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Lanzamiento",
+        "actividades": "Ajustes",
+        "entregable": "Quinta Version UX UI",
+        "fecha": "29/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Lanzamiento",
+        "actividades": "Presentacion APP entregable",
+        "entregable": "Detalles de Jhon Medina",
+        "fecha": "06/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Flujo",
+        "actividades": "Flujo Gerente",
+        "entregable": "Boton de Firma Masiva para Gerente",
+        "fecha": "08/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Lanzamiento",
+        "actividades": "Reunion con Linda",
+        "entregable": "Muestra de la aplicacion y funcionalidad",
+        "fecha": "13/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Lanzamiento",
+        "actividades": "Ajustes de Aplicacion, Ingreso de Usuarios",
+        "entregable": "Cambios de Interfaz, Autmatizacion de usuario, Historial Linea",
+        "fecha": "15/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Pruebas con Usuarios Reales",
+        "entregable": "Realizar prueba de Funcionamiento con roles Reales",
+        "fecha": "15/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Desarrollo",
+        "actividades": "Ajustes flujo aprobaciones regionales",
+        "entregable": "Flujo regional actualizado + Notificaciones + UI",
+        "fecha": "20/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Desarrollo",
+        "actividades": "Automatización notificaciones y rechazos",
+        "entregable": "Correos automáticos y control de rechazos",
+        "fecha": "22/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Validación con roles reales",
+        "entregable": "Resultado pruebas funcionales completas",
+        "fecha": "27/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Producción",
+        "actividades": "Estabilización y soporte",
+        "entregable": "Versión estable en producción",
+        "fecha": "17/07/2026",
+        "estado": "PROCESO",
+        "avance": 0.9,
+        "notas": "Vie 17/07 — mismo paquete firmas, post-aval"
+      },
+      {
+        "fase": "Firmas Digitales",
+        "actividades": "Investigar Adobe Sign",
+        "entregable": "Propuesta firmas digitales (fase 2)",
+        "fecha": "22/07/2026",
+        "estado": "PROCESO",
+        "avance": 0.1,
+        "notas": "Mié 22/07 — baja prioridad, post-producción"
+      }
+    ]
+  },
+  {
+    "nombre": "ACTUALIZACION POR SITIO EN PORTAL RF",
+    "slug": "actualizacion-por-sitio-en-portal-rf",
+    "estado": "PENDIENTE",
+    "avance": 0,
+    "total_actividades": 1,
+    "realizadas": 0,
+    "en_curso": 0,
+    "pendientes": 1,
+    "inicio": "04/09/2026",
+    "proxima_fecha": "04/09/2026",
+    "proxima_entregable": "Flujo funcional actualización portal RF",
+    "actividades": [
+      {
+        "fase": "Levantamiento",
+        "actividades": "Revisión actualización RF",
+        "entregable": "Flujo funcional actualización portal RF",
+        "fecha": "04/09/2026",
+        "estado": "PENDIENTE",
+        "avance": 0,
+        "notas": "Vie 04/09 — Jose Cardenas"
+      }
+    ]
+  },
+  {
+    "nombre": "APROBACION ID TRABAJOS SITE ACCESS",
+    "slug": "aprobacion-id-trabajos-site-access",
+    "estado": "PENDIENTE",
+    "avance": 0,
+    "total_actividades": 1,
+    "realizadas": 0,
+    "en_curso": 0,
+    "pendientes": 1,
+    "inicio": "16/09/2026",
+    "proxima_fecha": "16/09/2026",
+    "proxima_entregable": "Flujo automatizado aprobaciones",
+    "actividades": [
+      {
+        "fase": "Diseño",
+        "actividades": "Diseño aprobación IDs",
+        "entregable": "Flujo automatizado aprobaciones",
+        "fecha": "16/09/2026",
+        "estado": "PENDIENTE",
+        "avance": 0,
+        "notas": "Mié 16/09"
+      }
+    ]
+  },
+  {
+    "nombre": "ASIGNACION ACTIVIDAD ALIADO",
+    "slug": "asignacion-actividad-aliado",
+    "estado": "PENDIENTE",
+    "avance": 0,
+    "total_actividades": 1,
+    "realizadas": 0,
+    "en_curso": 0,
+    "pendientes": 1,
+    "inicio": "16/09/2026",
+    "proxima_fecha": "16/09/2026",
+    "proxima_entregable": "Primera versión automatización asignación",
+    "actividades": [
+      {
+        "fase": "Diseño",
+        "actividades": "Diseño flujo asignación actividades",
+        "entregable": "Primera versión automatización asignación",
+        "fecha": "16/09/2026",
+        "estado": "PENDIENTE",
+        "avance": 0,
+        "notas": "Mié 16/09"
+      }
+    ]
+  },
+  {
+    "nombre": "CREACION ID TRABAJOS SITE ACCESS",
+    "slug": "creacion-id-trabajos-site-access",
+    "estado": "PENDIENTE",
+    "avance": 0,
+    "total_actividades": 1,
+    "realizadas": 0,
+    "en_curso": 0,
+    "pendientes": 1,
+    "inicio": "18/09/2026",
+    "proxima_fecha": "18/09/2026",
+    "proxima_entregable": "Flujo automatizado creación IDs",
+    "actividades": [
+      {
+        "fase": "Diseño",
+        "actividades": "Diseño creación IDs",
+        "entregable": "Flujo automatizado creación IDs",
+        "fecha": "18/09/2026",
+        "estado": "PENDIENTE",
+        "avance": 0,
+        "notas": "Vie 18/09"
+      }
+    ]
+  },
+  {
+    "nombre": "CREACION USUARIO",
+    "slug": "creacion-usuario",
+    "estado": "PENDIENTE",
+    "avance": 0,
+    "total_actividades": 1,
+    "realizadas": 0,
+    "en_curso": 0,
+    "pendientes": 1,
+    "inicio": "25/09/2026",
+    "proxima_fecha": "25/09/2026",
+    "proxima_entregable": "Flujo automatizado creación usuario",
+    "actividades": [
+      {
+        "fase": "Diseño",
+        "actividades": "Diseño automatización creación usuarios",
+        "entregable": "Flujo automatizado creación usuario",
+        "fecha": "25/09/2026",
+        "estado": "PENDIENTE",
+        "avance": 0,
+        "notas": "Vie 25/09 — Jessica Moreno"
+      }
+    ]
+  },
+  {
+    "nombre": "DESBLOQUEO USUARIO",
+    "slug": "desbloqueo-usuario",
+    "estado": "PENDIENTE",
+    "avance": 0,
+    "total_actividades": 1,
+    "realizadas": 0,
+    "en_curso": 0,
+    "pendientes": 1,
+    "inicio": "30/09/2026",
+    "proxima_fecha": "30/09/2026",
+    "proxima_entregable": "Flujo automatizado desbloqueo",
+    "actividades": [
+      {
+        "fase": "Diseño",
+        "actividades": "Diseño automatización desbloqueos",
+        "entregable": "Flujo automatizado desbloqueo",
+        "fecha": "30/09/2026",
+        "estado": "PENDIENTE",
+        "avance": 0,
+        "notas": "Mié 30/09 — Jessica Moreno"
+      }
+    ]
+  },
+  {
+    "nombre": "GESTION DE OTS",
+    "slug": "gestion-de-ots",
+    "estado": "PENDIENTE",
+    "avance": 0,
+    "total_actividades": 1,
+    "realizadas": 0,
+    "en_curso": 0,
+    "pendientes": 1,
+    "inicio": "30/09/2026",
+    "proxima_fecha": "30/09/2026",
+    "proxima_entregable": "Primera estructura automatización OTS",
+    "actividades": [
+      {
+        "fase": "Diseño",
+        "actividades": "Diseño automatización OTS",
+        "entregable": "Primera estructura automatización OTS",
+        "fecha": "30/09/2026",
+        "estado": "PENDIENTE",
+        "avance": 0,
+        "notas": "Mié 30/09"
+      }
+    ]
+  },
+  {
+    "nombre": "GESTION PERMISOS ACCESO / VENTANAS MANTENIMIENTO",
+    "slug": "gestion-permisos-acceso-ventanas-mantenimiento",
+    "estado": "PENDIENTE",
+    "avance": 0,
+    "total_actividades": 1,
+    "realizadas": 0,
+    "en_curso": 0,
+    "pendientes": 1,
+    "inicio": "02/10/2026",
+    "proxima_fecha": "02/10/2026",
+    "proxima_entregable": "Flujo automatizado permisos",
+    "actividades": [
+      {
+        "fase": "Diseño",
+        "actividades": "Diseño flujo permisos mantenimiento",
+        "entregable": "Flujo automatizado permisos",
+        "fecha": "02/10/2026",
+        "estado": "PENDIENTE",
+        "avance": 0,
+        "notas": "Vie 02/10"
+      }
+    ]
+  },
+  {
+    "nombre": "IMPLEMENTACION RUTA TX",
+    "slug": "implementacion-ruta-tx",
+    "estado": "PENDIENTE",
+    "avance": 0,
+    "total_actividades": 1,
+    "realizadas": 0,
+    "en_curso": 0,
+    "pendientes": 1,
+    "inicio": "23/09/2026",
+    "proxima_fecha": "23/09/2026",
+    "proxima_entregable": "Documento flujo operativo TX",
+    "actividades": [
+      {
+        "fase": "Levantamiento",
+        "actividades": "Revisión proceso implementación TX",
+        "entregable": "Documento flujo operativo TX",
+        "fecha": "23/09/2026",
+        "estado": "PENDIENTE",
+        "avance": 0,
+        "notas": "Mié 23/09"
+      }
+    ]
+  },
+  {
+    "nombre": "PLANIFICACION MIGRACION / RUTA TX",
+    "slug": "planificacion-migracion-ruta-tx",
+    "estado": "PENDIENTE",
+    "avance": 0,
+    "total_actividades": 1,
+    "realizadas": 0,
+    "en_curso": 0,
+    "pendientes": 1,
+    "inicio": "25/09/2026",
+    "proxima_fecha": "25/09/2026",
+    "proxima_entregable": "Documento planificación automatizable",
+    "actividades": [
+      {
+        "fase": "Levantamiento",
+        "actividades": "Identificación flujo migración",
+        "entregable": "Documento planificación automatizable",
+        "fecha": "25/09/2026",
+        "estado": "PENDIENTE",
+        "avance": 0,
+        "notas": "Vie 25/09"
+      }
+    ]
+  },
+  {
+    "nombre": "REVISION FORMATOS FSE",
+    "slug": "revision-formatos-fse",
+    "estado": "PENDIENTE",
+    "avance": 0,
+    "total_actividades": 2,
+    "realizadas": 0,
+    "en_curso": 0,
+    "pendientes": 2,
+    "inicio": "02/09/2026",
+    "proxima_fecha": "02/09/2026",
+    "proxima_entregable": "Documento validaciones FSE",
+    "actividades": [
+      {
+        "fase": "Levantamiento",
+        "actividades": "Revisión criterios validación FSE",
+        "entregable": "Documento validaciones FSE",
+        "fecha": "02/09/2026",
+        "estado": "PENDIENTE",
+        "avance": 0,
+        "notas": "Mié 02/09 — cronograma Oscar"
+      },
+      {
+        "fase": "Diseño",
+        "actividades": "Diseño validaciones formatos",
+        "entregable": "Modelo automatización formatos FSE",
+        "fecha": "09/09/2026",
+        "estado": "PENDIENTE",
+        "avance": 0,
+        "notas": "Mié 09/09"
+      }
+    ]
+  },
+  {
+    "nombre": "REVISION Y CONCEPTO DE TSS",
+    "slug": "revision-y-concepto-de-tss",
+    "estado": "PENDIENTE",
+    "avance": 0,
+    "total_actividades": 1,
+    "realizadas": 0,
+    "en_curso": 0,
+    "pendientes": 1,
+    "inicio": "02/09/2026",
+    "proxima_fecha": "02/09/2026",
+    "proxima_entregable": "Documento validaciones TSS",
+    "actividades": [
+      {
+        "fase": "Levantamiento",
+        "actividades": "Revisión criterios validación TSS",
+        "entregable": "Documento validaciones TSS",
+        "fecha": "02/09/2026",
+        "estado": "PENDIENTE",
+        "avance": 0,
+        "notas": "Mié 02/09 — Regionales Acceso"
+      }
+    ]
+  },
+  {
+    "nombre": "SEGUIMIENTO ENTREGA HITOS INSTALACION E INTEGRACION",
+    "slug": "seguimiento-entrega-hitos-instalacion-e-integracion",
+    "estado": "PENDIENTE",
+    "avance": 0,
+    "total_actividades": 1,
+    "realizadas": 0,
+    "en_curso": 0,
+    "pendientes": 1,
+    "inicio": "09/10/2026",
+    "proxima_fecha": "09/10/2026",
+    "proxima_entregable": "Modelo control hitos integración",
+    "actividades": [
+      {
+        "fase": "Diseño",
+        "actividades": "Diseño seguimiento hitos",
+        "entregable": "Modelo control hitos integración",
+        "fecha": "09/10/2026",
+        "estado": "PENDIENTE",
+        "avance": 0,
+        "notas": "Vie 09/10"
+      }
+    ]
+  },
+  {
+    "nombre": "SEGUIMIENTO IMPLEMENTACION ACCESO",
+    "slug": "seguimiento-implementacion-acceso",
+    "estado": "PENDIENTE",
+    "avance": 0,
+    "total_actividades": 1,
+    "realizadas": 0,
+    "en_curso": 0,
+    "pendientes": 1,
+    "inicio": "07/10/2026",
+    "proxima_fecha": "07/10/2026",
+    "proxima_entregable": "Flujo seguimiento accesos",
+    "actividades": [
+      {
+        "fase": "Diseño",
+        "actividades": "Diseño seguimiento accesos",
+        "entregable": "Flujo seguimiento accesos",
+        "fecha": "07/10/2026",
+        "estado": "PENDIENTE",
+        "avance": 0,
+        "notas": "Mié 07/10"
+      }
+    ]
+  },
+  {
+    "nombre": "SEGUIMIENTO IMPLEMENTACION TX",
+    "slug": "seguimiento-implementacion-tx",
+    "estado": "PENDIENTE",
+    "avance": 0,
+    "total_actividades": 1,
+    "realizadas": 0,
+    "en_curso": 0,
+    "pendientes": 1,
+    "inicio": "07/10/2026",
+    "proxima_fecha": "07/10/2026",
+    "proxima_entregable": "Modelo seguimiento implementación",
+    "actividades": [
+      {
+        "fase": "Diseño",
+        "actividades": "Diseño seguimiento automatizado",
+        "entregable": "Modelo seguimiento implementación",
+        "fecha": "07/10/2026",
+        "estado": "PENDIENTE",
+        "avance": 0,
+        "notas": "Mié 07/10"
+      }
+    ]
+  },
+  {
+    "nombre": "SEGUIMIENTO RFIC",
+    "slug": "seguimiento-rfic",
+    "estado": "PENDIENTE",
+    "avance": 0,
+    "total_actividades": 1,
+    "realizadas": 0,
+    "en_curso": 0,
+    "pendientes": 1,
+    "inicio": "09/10/2026",
+    "proxima_fecha": "09/10/2026",
+    "proxima_entregable": "Flujo control RFIC",
+    "actividades": [
+      {
+        "fase": "Diseño",
+        "actividades": "Diseño seguimiento RFIC",
+        "entregable": "Flujo control RFIC",
+        "fecha": "09/10/2026",
+        "estado": "PENDIENTE",
+        "avance": 0,
+        "notas": "Vie 09/10"
+      }
+    ]
+  },
+  {
+    "nombre": "ACTA SISTEMATIZADA / CASOS DE BAJA",
+    "slug": "acta-sistematizada-casos-de-baja",
+    "estado": "REALIZADO",
+    "avance": 1.0,
+    "total_actividades": 10,
+    "realizadas": 10,
+    "en_curso": 0,
+    "pendientes": 0,
+    "inicio": "12/03/2026",
+    "proxima_fecha": "—",
+    "proxima_entregable": "—",
+    "actividades": [
+      {
+        "fase": "Levantamiento",
+        "actividades": "Revisión proceso",
+        "entregable": "Video, reunion y levantemiento",
+        "fecha": "12/03/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Diseño",
+        "actividades": "UX, estructura",
+        "entregable": "Presentacion APP UI UX Actas de Baja",
+        "fecha": "24/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Diseño",
+        "actividades": "UX, estructura",
+        "entregable": "Segunda Modificacion Estructura UI",
+        "fecha": "29/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Diseño",
+        "actividades": "Pruebas + Presentacion APP",
+        "entregable": "Cuarta Modificacion Estructura UI + Revision Aliados",
+        "fecha": "06/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Desarrollo",
+        "actividades": "Pruebas de la Aplicacion",
+        "entregable": "Retroalimentacion - Pruebas Aliados",
+        "fecha": "13/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Desarrollo",
+        "actividades": "Construcción App",
+        "entregable": "App funcional",
+        "fecha": "13/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Casos reales",
+        "entregable": "Progreso Aplicacion",
+        "fecha": "15/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Ajustes finales con usuarios",
+        "entregable": "Ajustes de Registro Aplicacion",
+        "fecha": "20/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Ajustes finales con usuarios",
+        "entregable": "Ajustes de Registro Aplicacion",
+        "fecha": "22/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Producción",
+        "actividades": "Estabilización Final",
+        "entregable": "Solución operativa en producción",
+        "fecha": "05/06/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      }
+    ]
+  },
+  {
+    "nombre": "APP CHECK DOC",
+    "slug": "app-check-doc",
+    "estado": "REALIZADO",
+    "avance": 1.0,
+    "total_actividades": 6,
+    "realizadas": 6,
+    "en_curso": 0,
+    "pendientes": 0,
+    "inicio": "13/03/2026",
+    "proxima_fecha": "—",
+    "proxima_entregable": "—",
+    "actividades": [
+      {
+        "fase": "Documentación",
+        "actividades": "Manual usuario y técnico",
+        "entregable": "Documentación entregada",
+        "fecha": "13/03/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Desarrollo",
+        "actividades": "Construcción automatización completa",
+        "entregable": "Solución funcional",
+        "fecha": "16/03/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Pruebas funcionales y ajustes",
+        "entregable": "Validación operativa",
+        "fecha": "16/03/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Producción",
+        "actividades": "Soporte inicial, estabilización",
+        "entregable": "Cierre productivo",
+        "fecha": "25/03/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Lanzamiento",
+        "actividades": "Capacitación y despliegue",
+        "entregable": "Solución liberada",
+        "fecha": "08/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Piloto",
+        "actividades": "Pruebas con personal real",
+        "entregable": "App en uso, con datos de prueba publicados",
+        "fecha": "08/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      }
+    ]
+  },
+  {
+    "nombre": "APP CHECK HW",
+    "slug": "app-check-hw",
+    "estado": "REALIZADO",
+    "avance": 1.0,
+    "total_actividades": 6,
+    "realizadas": 6,
+    "en_curso": 0,
+    "pendientes": 0,
+    "inicio": "13/03/2026",
+    "proxima_fecha": "—",
+    "proxima_entregable": "—",
+    "actividades": [
+      {
+        "fase": "Documentación",
+        "actividades": "Manual usuario y técnico",
+        "entregable": "Documentación entregada",
+        "fecha": "13/03/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Desarrollo",
+        "actividades": "Construcción automatización completa",
+        "entregable": "Solución funcional",
+        "fecha": "16/03/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Pruebas funcionales y ajustes",
+        "entregable": "Validación operativa",
+        "fecha": "16/03/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Producción",
+        "actividades": "Soporte inicial, estabilización",
+        "entregable": "Cierre productivo",
+        "fecha": "25/03/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Lanzamiento",
+        "actividades": "Capacitación y despliegue",
+        "entregable": "Solución liberada",
+        "fecha": "30/03/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Piloto",
+        "actividades": "Pruebas con personal real",
+        "entregable": "App en uso, con datos de prueba publicados",
+        "fecha": "30/03/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      }
+    ]
+  },
+  {
+    "nombre": "BI CONTRATOS",
+    "slug": "bi-contratos",
+    "estado": "REALIZADO",
+    "avance": 1.0,
+    "total_actividades": 5,
+    "realizadas": 5,
+    "en_curso": 0,
+    "pendientes": 0,
+    "inicio": "18/03/2026",
+    "proxima_fecha": "—",
+    "proxima_entregable": "—",
+    "actividades": [
+      {
+        "fase": "Diseño",
+        "actividades": "Diseño visual y modelo",
+        "entregable": "Diseño aprobado",
+        "fecha": "18/03/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Desarrollo",
+        "actividades": "Ajustes BI, nuevas métricas",
+        "entregable": "BI actualizado",
+        "fecha": "20/03/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Documentación",
+        "actividades": "Guía de uso",
+        "entregable": "Documentación",
+        "fecha": "25/03/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Lanzamiento",
+        "actividades": "Publicación",
+        "entregable": "BI liberado",
+        "fecha": "08/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Validación datos",
+        "entregable": "Aprobación",
+        "fecha": "16/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      }
+    ]
+  },
+  {
+    "nombre": "BITACORAS DIRECTOS",
+    "slug": "bitacoras-directos",
+    "estado": "REALIZADO",
+    "avance": 1.0,
+    "total_actividades": 2,
+    "realizadas": 2,
+    "en_curso": 0,
+    "pendientes": 0,
+    "inicio": "11/03/2026",
+    "proxima_fecha": "—",
+    "proxima_entregable": "—",
+    "actividades": [
+      {
+        "fase": "Lanzamiento",
+        "actividades": "Capacitación",
+        "entregable": "Liberado",
+        "fecha": "11/03/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Producción",
+        "actividades": "Estabilización",
+        "entregable": "Operativo",
+        "fecha": "08/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      }
+    ]
+  },
+  {
+    "nombre": "CRONOGRAMA DESARROLLOS",
+    "slug": "cronograma-desarrollos",
+    "estado": "REALIZADO",
+    "avance": 1.0,
+    "total_actividades": 1,
+    "realizadas": 1,
+    "en_curso": 0,
+    "pendientes": 0,
+    "inicio": "13/05/2026",
+    "proxima_fecha": "—",
+    "proxima_entregable": "—",
+    "actividades": [
+      {
+        "fase": "Ajuste",
+        "actividades": "Cambios en El Cronograma",
+        "entregable": "Mapa aterrizado Realizados Pendientes y en Proceso",
+        "fecha": "13/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      }
+    ]
+  },
+  {
+    "nombre": "ONAIR",
+    "slug": "onair",
+    "estado": "REALIZADO",
+    "avance": 1.0,
+    "total_actividades": 5,
+    "realizadas": 5,
+    "en_curso": 0,
+    "pendientes": 0,
+    "inicio": "20/03/2026",
+    "proxima_fecha": "—",
+    "proxima_entregable": "—",
+    "actividades": [
+      {
+        "fase": "Desarrollo",
+        "actividades": "Ajustes Bases, Power query Power apps, nuevas métricas",
+        "entregable": "BI actualizado",
+        "fecha": "20/03/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Diseño",
+        "actividades": "Power Bi Ajustes",
+        "entregable": "Power BI",
+        "fecha": "27/03/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Documentación",
+        "actividades": "Power BI - Terminacion",
+        "entregable": "Entrega Final Power BI OnAir",
+        "fecha": "15/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Lanzamiento",
+        "actividades": "Publicación",
+        "entregable": "BI liberado",
+        "fecha": "24/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Terminacion",
+        "actividades": "Entrega Total Power BI",
+        "entregable": "Socializacion Entrega",
+        "fecha": "29/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      }
+    ]
+  },
+  {
+    "nombre": "PBI ACTAS DE BAJA",
+    "slug": "pbi-actas-de-baja",
+    "estado": "REALIZADO",
+    "avance": 1.0,
+    "total_actividades": 1,
+    "realizadas": 1,
+    "en_curso": 0,
+    "pendientes": 0,
+    "inicio": "06/05/2026",
+    "proxima_fecha": "—",
+    "proxima_entregable": "—",
+    "actividades": [
+      {
+        "fase": "Modificacion",
+        "actividades": "Actas N1 y N2",
+        "entregable": "Modificacion Power BI Actas de Baja",
+        "fecha": "06/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      }
+    ]
+  },
+  {
+    "nombre": "APP GESTION DE ACCESOS ESCALADOS",
+    "slug": "app-gestion-de-accesos-escalados",
+    "estado": "REALIZADO",
+    "avance": 0.9,
+    "total_actividades": 2,
+    "realizadas": 2,
+    "en_curso": 0,
+    "pendientes": 0,
+    "inicio": "24/04/2026",
+    "proxima_fecha": "—",
+    "proxima_entregable": "—",
+    "actividades": [
+      {
+        "fase": "Diseño",
+        "actividades": "UX, UX Estructura",
+        "entregable": "Presentacion primera Version APP",
+        "fecha": "24/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Diseño",
+        "actividades": "UX, UX Estructura",
+        "entregable": "Segunda - Modificacion Estetica UI",
+        "fecha": "29/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      }
+    ]
+  },
+  {
+    "nombre": "APP PENALIDADES",
+    "slug": "app-penalidades",
+    "estado": "REALIZADO",
+    "avance": 0.9,
+    "total_actividades": 20,
+    "realizadas": 20,
+    "en_curso": 0,
+    "pendientes": 0,
+    "inicio": "20/03/2026",
+    "proxima_fecha": "—",
+    "proxima_entregable": "—",
+    "actividades": [
+      {
+        "fase": "Levantamiento",
+        "actividades": "Identificación problemas",
+        "entregable": "Lista de mejoras",
+        "fecha": "20/03/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Simplificación",
+        "actividades": "Evaluación automatizaciones",
+        "entregable": "Propuesta TO-BE",
+        "fecha": "25/03/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Sharepoint",
+        "actividades": "Creacion Listas",
+        "entregable": "Primera version UI Aplicacion",
+        "fecha": "08/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Sharepoint",
+        "actividades": "Creacion Listas",
+        "entregable": "Segunda version UI Aplicacion",
+        "fecha": "10/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Sharepoint",
+        "actividades": "Creacion Listas",
+        "entregable": "Tercera version UI Aplicacion",
+        "fecha": "14/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Sharepoint",
+        "actividades": "Creacion Listas",
+        "entregable": "Version Final Penalidades",
+        "fecha": "22/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Desarrollo",
+        "actividades": "Implementación",
+        "entregable": "Tercera version UI Aplicacion - OnAir",
+        "fecha": "24/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Penalidades Integracion",
+        "entregable": "Segunda Version - UI Modificada",
+        "fecha": "29/04/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Penalidades Integracion / Hallazgos",
+        "entregable": "Tercera Version - UI Completa + Listas",
+        "fecha": "06/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Correcion y Creacion de Flujos",
+        "entregable": "Hallazgos y Onair",
+        "fecha": "06/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Modelo de Automatizacion OnAir",
+        "entregable": "Revision con Andrea para Automatizacion de ingreso Casos OnAir",
+        "fecha": "06/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Penalidades Hallazgos",
+        "entregable": "Pruebas con los Usuarios directamente en la Aplicacion",
+        "fecha": "08/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Penalidades OnAir",
+        "entregable": "Traer Sitios Nuevos OnAir",
+        "fecha": "13/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Cambios",
+        "actividades": "Penalidades OnAir",
+        "entregable": "Mejora en UX UI // Roles y Comentarios // Flujos de Notificacion",
+        "fecha": "13/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Pruebas",
+        "actividades": "Penalidades OnAir",
+        "entregable": "Pruebas Flujo Ingreso Sitios OnAir",
+        "fecha": "15/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Cambios",
+        "actividades": "Ajustes de Aplicacion",
+        "entregable": "Cambios y Correciones de la App Vistos Miercoles 13 Mayo",
+        "fecha": "15/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Cambios",
+        "actividades": "Optimización UX/UI y rendimiento",
+        "entregable": "Versión Final optimizada y estable (Funcional)",
+        "fecha": "20/05/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Carga OnAir",
+        "actividades": "Carga de Informacion OnAir",
+        "entregable": "Carga Automatizada Power Query - Power Automate",
+        "fecha": "05/06/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Cambios",
+        "actividades": "Corrección hallazgos de la APP",
+        "entregable": "Aplicacion con Correcciones de produccion",
+        "fecha": "05/06/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Cambios",
+        "actividades": "Corrección hallazgos de la APP",
+        "entregable": "Terminacion de Correciones",
+        "fecha": "10/06/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      }
+    ]
+  },
+  {
+    "nombre": "CREACION ACTA SISTEMATIZADA HW BAJA",
+    "slug": "creacion-acta-sistematizada-hw-baja",
+    "estado": "EN CURSO",
+    "avance": 1.0,
+    "total_actividades": 3,
+    "realizadas": 2,
+    "en_curso": 0,
+    "pendientes": 1,
+    "inicio": "10/06/2026",
+    "proxima_fecha": "12/08/2026",
+    "proxima_entregable": "Acta HW baja operativa",
+    "actividades": [
+      {
+        "fase": "Diseño",
+        "actividades": "Diseño flujo creación actas",
+        "entregable": "Primera estructura automatizada acta HW",
+        "fecha": "10/06/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Desarrollo",
+        "actividades": "Automatización generación actas",
+        "entregable": "Aplicación funcional generación actas",
+        "fecha": "17/06/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Producción",
+        "actividades": "Estabilización y pruebas aliados",
+        "entregable": "Acta HW baja operativa",
+        "fecha": "12/08/2026",
+        "estado": "PENDIENTE",
+        "avance": 0.7,
+        "notas": "Mié 12/08 — Livan"
+      }
+    ]
+  },
+  {
+    "nombre": "CREACION CASO DE RECOLECCION HW BAJA",
+    "slug": "creacion-caso-de-recoleccion-hw-baja",
+    "estado": "EN CURSO",
+    "avance": 1.0,
+    "total_actividades": 2,
+    "realizadas": 1,
+    "en_curso": 0,
+    "pendientes": 1,
+    "inicio": "10/06/2026",
+    "proxima_fecha": "07/08/2026",
+    "proxima_entregable": "Flujo funcional generación casos",
+    "actividades": [
+      {
+        "fase": "Diseño",
+        "actividades": "Diseño flujo creación caso",
+        "entregable": "Modelo automatización caso recolección",
+        "fecha": "10/06/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Desarrollo",
+        "actividades": "Automatización creación casos",
+        "entregable": "Flujo funcional generación casos",
+        "fecha": "07/08/2026",
+        "estado": "PENDIENTE",
+        "avance": 0.3,
+        "notas": "Vie 07/08 — Livan"
+      }
+    ]
+  },
+  {
+    "nombre": "SOLICITUD ACCESO EB",
+    "slug": "solicitud-acceso-eb",
+    "estado": "EN CURSO",
+    "avance": 0.9,
+    "total_actividades": 2,
+    "realizadas": 1,
+    "en_curso": 0,
+    "pendientes": 1,
+    "inicio": "12/06/2026",
+    "proxima_fecha": "19/08/2026",
+    "proxima_entregable": "Flujo funcional solicitud accesos",
+    "actividades": [
+      {
+        "fase": "Diseño",
+        "actividades": "Diseño automatización solicitud acceso",
+        "entregable": "Flujo inicial solicitud accesos",
+        "fecha": "12/06/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Desarrollo",
+        "actividades": "Construcción flujo solicitud",
+        "entregable": "Flujo funcional solicitud accesos",
+        "fecha": "19/08/2026",
+        "estado": "PENDIENTE",
+        "avance": 0.25,
+        "notas": "Mié 19/08 — Andrea"
+      }
+    ]
+  },
+  {
+    "nombre": "REVISION DOCUMENTACION DESINSTALACION / DESMONTE",
+    "slug": "revision-documentacion-desinstalacion-desmonte",
+    "estado": "EN CURSO",
+    "avance": 0.1,
+    "total_actividades": 2,
+    "realizadas": 1,
+    "en_curso": 0,
+    "pendientes": 1,
+    "inicio": "03/06/2026",
+    "proxima_fecha": "11/09/2026",
+    "proxima_entregable": "Primera versión funcional desmonte",
+    "actividades": [
+      {
+        "fase": "Levantamiento",
+        "actividades": "Revisión proceso documental actual",
+        "entregable": "Identificación validaciones manuales y automatizables",
+        "fecha": "03/06/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Desarrollo",
+        "actividades": "Construcción validaciones automáticas",
+        "entregable": "Primera versión funcional desmonte",
+        "fecha": "11/09/2026",
+        "estado": "PENDIENTE",
+        "avance": 0.1,
+        "notas": "Vie 11/09 — solo levantamiento hecho"
+      }
+    ]
+  },
+  {
+    "nombre": "REVISION DOCUMENTACION INSTALACION / MIGRACION",
+    "slug": "revision-documentacion-instalacion-migracion",
+    "estado": "EN CURSO",
+    "avance": 0.1,
+    "total_actividades": 2,
+    "realizadas": 1,
+    "en_curso": 0,
+    "pendientes": 1,
+    "inicio": "03/06/2026",
+    "proxima_fecha": "11/09/2026",
+    "proxima_entregable": "Primera versión funcional instalación",
+    "actividades": [
+      {
+        "fase": "Levantamiento",
+        "actividades": "Revisión estructura documental instalación",
+        "entregable": "Documento AS-IS y flujo operativo",
+        "fecha": "03/06/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Desarrollo",
+        "actividades": "Construcción validaciones automáticas",
+        "entregable": "Primera versión funcional instalación",
+        "fecha": "11/09/2026",
+        "estado": "PENDIENTE",
+        "avance": 0.1,
+        "notas": "Vie 11/09 — solo levantamiento hecho"
+      }
+    ]
+  },
+  {
+    "nombre": "REVISION SITE FOLDER NOKIA-LOCAL",
+    "slug": "revision-site-folder-nokia-local",
+    "estado": "EN CURSO",
+    "avance": 0.05,
+    "total_actividades": 2,
+    "realizadas": 1,
+    "en_curso": 0,
+    "pendientes": 1,
+    "inicio": "05/06/2026",
+    "proxima_fecha": "23/09/2026",
+    "proxima_entregable": "Automatización revisión documental",
+    "actividades": [
+      {
+        "fase": "Levantamiento",
+        "actividades": "Revisión estructura Site Folder",
+        "entregable": "Hallazgos y oportunidades automatización",
+        "fecha": "05/06/2026",
+        "estado": "REALIZADO",
+        "avance": null,
+        "notas": ""
+      },
+      {
+        "fase": "Desarrollo",
+        "actividades": "Construcción validación Site Folder",
+        "entregable": "Automatización revisión documental",
+        "fecha": "23/09/2026",
+        "estado": "PENDIENTE",
+        "avance": 0.05,
+        "notas": "Mié 23/09"
+      }
+    ]
+  }
+]

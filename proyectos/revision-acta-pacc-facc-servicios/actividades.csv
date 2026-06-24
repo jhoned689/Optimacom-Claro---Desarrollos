@@ -1,0 +1,9 @@
+﻿Fase;Actividades;Entregable;Fecha;Estado;% Avance;Notas
+Levantamiento;Identificación validaciones manuales;Proceso de Mejora de Automatizacion Revisiones;14/05/2026;REALIZADO;;
+Diseño;UX/UI módulo validaciones;Revision Documental;12/06/2026;REALIZADO;;
+Desarrollo;Construcción lógica validaciones;Primera versión documental módulo servicios;17/06/2026;REALIZADO;;
+Pruebas;Socialización inicio pruebas usuarios;Módulo servicios listo para prueba con actas reales;24/06/2026;HOY;0.85;Mié 24/06 — flujo V7 + validaciones core
+Cambios;Ajustes post-prueba desarrollo;Segunda versión con correcciones servicios;27/06/2026;PENDIENTE;0.85;Vie 27/06 — ajustes + pruebas servicios
+Pruebas;Segunda ronda validación usuarios;Validación operativa servicios post-ajustes;27/06/2026;PENDIENTE;0.9;Vie 27/06 — meta ~90% servicios
+Pruebas;Estabilización y cierre hallazgos;Servicios listos para documentación;01/07/2026;PENDIENTE;0.92;Mié 01/07
+Documentación;Manual técnico y usuario;Documentación entregada servicios;03/07/2026;PENDIENTE;0;Vie 03/07

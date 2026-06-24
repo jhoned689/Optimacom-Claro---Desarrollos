@@ -1,0 +1,21 @@
+﻿Fase;Actividades;Entregable;Fecha;Estado;% Avance;Notas
+Levantamiento;Identificación problemas;Lista de mejoras;20/03/2026;REALIZADO;;
+Simplificación;Evaluación automatizaciones;Propuesta TO-BE;25/03/2026;REALIZADO;;
+Sharepoint;Creacion Listas;Primera version UI Aplicacion;08/04/2026;REALIZADO;;
+Sharepoint;Creacion Listas;Segunda version UI Aplicacion;10/04/2026;REALIZADO;;
+Sharepoint;Creacion Listas;Tercera version UI Aplicacion;14/04/2026;REALIZADO;;
+Sharepoint;Creacion Listas;Version Final Penalidades;22/04/2026;REALIZADO;;
+Desarrollo;Implementación;Tercera version UI Aplicacion - OnAir;24/04/2026;REALIZADO;;
+Pruebas;Penalidades Integracion;Segunda Version - UI Modificada;29/04/2026;REALIZADO;;
+Pruebas;Penalidades Integracion / Hallazgos;Tercera Version - UI Completa + Listas;06/05/2026;REALIZADO;;
+Pruebas;Correcion y Creacion de Flujos;Hallazgos y Onair;06/05/2026;REALIZADO;;
+Pruebas;Modelo de Automatizacion OnAir;Revision con Andrea para Automatizacion de ingreso Casos OnAir;06/05/2026;REALIZADO;;
+Pruebas;Penalidades Hallazgos;Pruebas con los Usuarios directamente en la Aplicacion;08/05/2026;REALIZADO;;
+Pruebas;Penalidades OnAir;Traer Sitios Nuevos OnAir;13/05/2026;REALIZADO;;
+Cambios;Penalidades OnAir;Mejora en UX UI // Roles y Comentarios // Flujos de Notificacion;13/05/2026;REALIZADO;;
+Pruebas;Penalidades OnAir;Pruebas Flujo Ingreso Sitios OnAir;15/05/2026;REALIZADO;;
+Cambios;Ajustes de Aplicacion;Cambios y Correciones de la App Vistos Miercoles 13 Mayo;15/05/2026;REALIZADO;;
+Cambios;Optimización UX/UI y rendimiento;Versión Final optimizada y estable (Funcional);20/05/2026;REALIZADO;;
+Carga OnAir;Carga de Informacion OnAir;Carga Automatizada Power Query - Power Automate;05/06/2026;REALIZADO;;
+Cambios;Corrección hallazgos de la APP;Aplicacion con Correcciones de produccion;05/06/2026;REALIZADO;;
+Cambios;Corrección hallazgos de la APP;Terminacion de Correciones;10/06/2026;REALIZADO;;

@@ -1,0 +1,35 @@
+# RADICACION ACTAS DE LIQUIDACION (FIRMAS)
+
+| Campo | Valor |
+|-------|-------|
+| **Estado** | PROCESO |
+| **Avance** | 90% |
+| **Actividades** | 16 realizadas · 2 en curso · 0 pendientes |
+| **Inicio** | 27/03/2026 |
+| **Próxima entrega** | 17/07/2026 |
+| **Próximo entregable** | Versión estable en producción |
+
+## Actividades
+
+| Fase | Actividad | Entregable | Fecha | Estado | % |
+|------|-----------|------------|-------|--------|---|
+| Levantamiento | Revisión proceso | Conocimiento del proceso completo | 27/03/2026 | REALIZADO | — |
+| Levantamiento | Revisión proceso | Propuesta TO-BE | 08/04/2026 | REALIZADO | — |
+| Diseño | UX, estructura | Diseño Sharepoint - Listas - Usuarios - Base | 08/04/2026 | REALIZADO | — |
+| Desarrollo | Construcción App | Segunda version UI Aplicacion | 15/04/2026 | REALIZADO | — |
+| Desarrollo | Construcción App | Segunda version UI Aplicacion | 22/04/2026 | REALIZADO | — |
+| Documentación | Construcción App | Tercera Version UX UI Aplicacion | 24/04/2026 | REALIZADO | — |
+| Pruebas | Prueba Funcionamiento | Cuarta version UI Aplicacion + Pruebas | 29/04/2026 | REALIZADO | — |
+| Lanzamiento | Ajustes | Quinta Version UX UI | 29/04/2026 | REALIZADO | — |
+| Lanzamiento | Presentacion APP entregable | Detalles de Jhon Medina | 06/05/2026 | REALIZADO | — |
+| Flujo | Flujo Gerente | Boton de Firma Masiva para Gerente | 08/05/2026 | REALIZADO | — |
+| Lanzamiento | Reunion con Linda | Muestra de la aplicacion y funcionalidad | 13/05/2026 | REALIZADO | — |
+| Lanzamiento | Ajustes de Aplicacion, Ingreso de Usuarios | Cambios de Interfaz, Autmatizacion de usuario, Historial Linea | 15/05/2026 | REALIZADO | — |
+| Pruebas | Pruebas con Usuarios Reales | Realizar prueba de Funcionamiento con roles Reales | 15/05/2026 | REALIZADO | — |
+| Desarrollo | Ajustes flujo aprobaciones regionales | Flujo regional actualizado + Notificaciones + UI | 20/05/2026 | REALIZADO | — |
+| Desarrollo | Automatización notificaciones y rechazos | Correos automáticos y control de rechazos | 22/05/2026 | REALIZADO | — |
+| Pruebas | Validación con roles reales | Resultado pruebas funcionales completas | 27/05/2026 | REALIZADO | — |
+| Producción | Estabilización y soporte | Versión estable en producción | 17/07/2026 | PROCESO | 90% |
+| Firmas Digitales | Investigar Adobe Sign | Propuesta firmas digitales (fase 2) | 22/07/2026 | PROCESO | 10% |
+
+[← Volver al índice de proyectos](../README.md)

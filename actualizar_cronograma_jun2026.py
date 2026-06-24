@@ -594,10 +594,14 @@ def exportar_csv() -> None:
 def main() -> None:
     end = actualizar_excel()
     exportar_csv()
+    from exportar_proyectos import exportar_proyectos
+
+    proyectos = exportar_proyectos(actualizar_excel=True)
     print(f"Excel: {XLSX}")
     print(f"Filas actualizadas: 95 - {end}")
     print(f"CSV: {CSV_EJECUCION}")
     print(f"CSV: {CSV_AVANCE}")
+    print(f"Proyectos: {len(proyectos)} carpetas en proyectos/")
 
 
 if __name__ == "__main__":

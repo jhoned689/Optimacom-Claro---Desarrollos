@@ -18,8 +18,9 @@ Seguimiento de automatizaciones y entregas del equipo de desarrollo Optimacom / 
 | Archivo | Descripción |
 |---------|-------------|
 | [`PBI Desarrollos.xlsx`](PBI%20Desarrollos.xlsx) | Fuente principal (alimenta Power BI) |
-| [`data/ejecucion-desarrollo.csv`](data/ejecucion-desarrollo.csv) | Detalle por fase — exportado para GitHub |
-| [`data/avance-proyectos.csv`](data/avance-proyectos.csv) | % avance por proyecto |
+| [`proyectos/`](proyectos/README.md) | **Una carpeta por desarrollo** con actividades dentro |
+| [`data/ejecucion-desarrollo.csv`](data/ejecucion-desarrollo.csv) | Detalle plano (todas las filas) |
+| [`data/proyectos.json`](data/proyectos.json) | Proyectos + actividades en JSON |
 | [`docs/PROXIMOS-ENTREGABLES.md`](docs/PROXIMOS-ENTREGABLES.md) | Próximas entregas mié/vie |
 | [`docs/GITHUB.md`](docs/GITHUB.md) | Guía de actualización en GitHub |
 

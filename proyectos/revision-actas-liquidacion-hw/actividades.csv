@@ -1,0 +1,8 @@
+﻿Fase;Actividades;Entregable;Fecha;Estado;% Avance;Notas
+Levantamiento;Identificación validaciones manuales;Proceso de Mejora de Automatizacion Revisiones;14/05/2026;REALIZADO;;
+Diseño;Diseño estructura revisión actas;Modelo UX/UI inicial;27/05/2026;REALIZADO;;
+SharePoint;UX/UI revisión documental;Revision Documental;12/06/2026;REALIZADO;;
+Desarrollo;Construcción aplicación;Primera versión Documentada HW;17/06/2026;REALIZADO;;
+Pruebas;Socialización módulo auditoría HW;Primera demostración checklist HW;24/06/2026;HOY;0.5;Mié 24/06 — alineado con PACC-FACC HW
+Cambios;Ajustes pruebas usuarios;Segunda versión funcional estable HW;27/06/2026;PENDIENTE;0.55;Vie 27/06 — ajustes módulo HW
+Lanzamiento;Socialización módulo liberado;Módulo HW liberado usuarios piloto;10/07/2026;PENDIENTE;0;Vie 10/07 — meta julio cronograma Oscar
