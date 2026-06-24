@@ -55,6 +55,6 @@ Ver guía: [`docs/GITHUB-PROJECTS.md`](docs/GITHUB-PROJECTS.md)
 
 ## Responsable
 
-Jhon Medina — desarrollo y automatización
+Jhon Edwin Riveros Garcia — desarrollo y automatización
 
 Última actualización: **24 de junio de 2026**
