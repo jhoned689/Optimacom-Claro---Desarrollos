@@ -17,4 +17,8 @@
 | Diseño | Diseño validación automatizada HW | Modelo funcional validación línea a línea | 03/07/2026 | PENDIENTE | 15% |
 | Desarrollo | Construcción validación HW piloto | Validación automática funcional piloto | 15/07/2026 | PENDIENTE | 0% |
 
+## Repositorio
+
+Código y documentación: [`Desarrollo - Validacion HW linea linea con IA`](../../../Desarrollo%20-%20Validacion%20HW%20linea%20linea%20con%20IA/)
+
 [← Volver al índice de proyectos](../README.md)

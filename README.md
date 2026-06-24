@@ -19,6 +19,7 @@ Seguimiento de automatizaciones y entregas del equipo de desarrollo Optimacom / 
 |---------|-------------|
 | [`PBI Desarrollos.xlsx`](PBI%20Desarrollos.xlsx) | Fuente principal (alimenta Power BI) |
 | [`proyectos/`](proyectos/README.md) | **Una carpeta por desarrollo** con actividades dentro |
+| [`docs/GITHUB-PROJECTS.md`](docs/GITHUB-PROJECTS.md) | **Cómo ver actividades en GitHub Projects** (Issues + Milestones) |
 | [`data/ejecucion-desarrollo.csv`](data/ejecucion-desarrollo.csv) | Detalle plano (todas las filas) |
 | [`data/proyectos.json`](data/proyectos.json) | Proyectos + actividades en JSON |
 | [`docs/PROXIMOS-ENTREGABLES.md`](docs/PROXIMOS-ENTREGABLES.md) | Próximas entregas mié/vie |
@@ -34,7 +35,16 @@ git commit -m "Actualización cronograma"
 git push
 ```
 
-Esto actualiza el Excel, regenera los CSV y mantiene fechas en miércoles/viernes.
+Esto actualiza el Excel, regenera los CSV, carpetas `proyectos/` y mantiene fechas en miércoles/viernes.
+
+Para **GitHub Projects** (tablero con actividades por desarrollo):
+
+```powershell
+gh auth login
+python sync_github_issues.py --project
+```
+
+Ver guía: [`docs/GITHUB-PROJECTS.md`](docs/GITHUB-PROJECTS.md)
 
 ## Estructura del Excel
 

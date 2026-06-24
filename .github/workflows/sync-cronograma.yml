@@ -1,0 +1,28 @@
+name: Sincronizar cronograma a GitHub Issues
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "data/proyectos.json"
+      - "sync_github_issues.py"
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Sync issues from proyectos.json
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          pip install --quiet openpyxl
+          python sync_github_issues.py
