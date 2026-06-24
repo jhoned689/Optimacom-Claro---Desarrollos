@@ -1,4 +1,4 @@
-# Optimacom — Cronograma de Desarrollos
+# Optimacom Claro — Desarrollos
 
 Seguimiento de automatizaciones y entregas del equipo de desarrollo Optimacom / Claro.
 
@@ -20,14 +20,17 @@ Seguimiento de automatizaciones y entregas del equipo de desarrollo Optimacom / 
 | [`PBI Desarrollos.xlsx`](PBI%20Desarrollos.xlsx) | Fuente principal (alimenta Power BI) |
 | [`data/ejecucion-desarrollo.csv`](data/ejecucion-desarrollo.csv) | Detalle por fase — exportado para GitHub |
 | [`data/avance-proyectos.csv`](data/avance-proyectos.csv) | % avance por proyecto |
-| [`docs/CRONOGRAMA.md`](docs/CRONOGRAMA.md) | Vista legible del plan vigente |
 | [`docs/PROXIMOS-ENTREGABLES.md`](docs/PROXIMOS-ENTREGABLES.md) | Próximas entregas mié/vie |
+| [`docs/GITHUB.md`](docs/GITHUB.md) | Guía de actualización en GitHub |
 
 ## Actualizar cronograma
 
 ```powershell
 cd "Desarrollo - Cronograma y ejecucion"
 python actualizar_cronograma_jun2026.py
+git add .
+git commit -m "Actualización cronograma"
+git push
 ```
 
 Esto actualiza el Excel, regenera los CSV y mantiene fechas en miércoles/viernes.

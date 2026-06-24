@@ -21,7 +21,7 @@ git add .
 git commit -m "Cronograma desarrollos Optimacom — jun 2026"
 
 git branch -M main
-git remote add origin https://github.com/TU_USUARIO/optimacom-cronograma-desarrollos.git
+git remote add origin https://github.com/jhoned689/Optimacom-Claro---Desarrollos.git
 git push -u origin main
 ```
 
@@ -50,7 +50,7 @@ Para crear el repo desde terminal:
 ```powershell
 winget install GitHub.cli
 gh auth login
-gh repo create optimacom-cronograma-desarrollos --private --source=. --push
+gh repo create jhoned689/Optimacom-Claro---Desarrollos --private --source=. --push
 ```
 
 ## Qué se publica
