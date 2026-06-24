@@ -1,0 +1,6 @@
+# Thumbs.db
+Desktop.ini
+~$*.xlsx
+__pycache__/
+*.pyc
+.env

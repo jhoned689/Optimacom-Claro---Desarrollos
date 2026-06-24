@@ -1,0 +1,138 @@
+﻿DESARROLLO;Fase;Actividades;Entregable;Fecha;Estado;% Avance;Notas
+BITACORAS DIRECTOS;Lanzamiento;Capacitación;Liberado;11/03/2026;REALIZADO;;
+ACTA SISTEMATIZADA / CASOS DE BAJA;Levantamiento;Revisión proceso;Video, reunion y levantemiento;12/03/2026;REALIZADO;;
+APP CHECK DOC;Documentación;Manual usuario y técnico;Documentación entregada;13/03/2026;REALIZADO;;
+APP CHECK HW;Documentación;Manual usuario y técnico;Documentación entregada;13/03/2026;REALIZADO;;
+APP CHECK DOC;Desarrollo;Construcción automatización completa;Solución funcional;16/03/2026;REALIZADO;;
+APP CHECK DOC;Pruebas;Pruebas funcionales y ajustes;Validación operativa;16/03/2026;REALIZADO;;
+APP CHECK HW;Desarrollo;Construcción automatización completa;Solución funcional;16/03/2026;REALIZADO;;
+APP CHECK HW;Pruebas;Pruebas funcionales y ajustes;Validación operativa;16/03/2026;REALIZADO;;
+BI CONTRATOS;Diseño;Diseño visual y modelo;Diseño aprobado;18/03/2026;REALIZADO;;
+APP PENALIDADES;Levantamiento;Identificación problemas;Lista de mejoras;20/03/2026;REALIZADO;;
+BI CONTRATOS;Desarrollo;Ajustes BI, nuevas métricas;BI actualizado;20/03/2026;REALIZADO;;
+ONAIR;Desarrollo;Ajustes Bases, Power query Power apps, nuevas métricas;BI actualizado;20/03/2026;REALIZADO;;
+APP CHECK DOC;Producción;Soporte inicial, estabilización;Cierre productivo;25/03/2026;REALIZADO;;
+APP CHECK HW;Producción;Soporte inicial, estabilización;Cierre productivo;25/03/2026;REALIZADO;;
+APP PENALIDADES;Simplificación;Evaluación automatizaciones;Propuesta TO-BE;25/03/2026;REALIZADO;;
+BI CONTRATOS;Documentación;Guía de uso;Documentación;25/03/2026;REALIZADO;;
+ONAIR;Diseño;Power Bi Ajustes;Power BI;27/03/2026;REALIZADO;;
+RADICACION ACTAS DE LIQUIDACION (FIRMAS);Levantamiento;Revisión proceso;Conocimiento del proceso completo;27/03/2026;REALIZADO;;
+APP CHECK HW;Lanzamiento;Capacitación y despliegue;Solución liberada;30/03/2026;REALIZADO;;
+APP CHECK HW;Piloto;Pruebas con personal real;App en uso, con datos de prueba publicados;30/03/2026;REALIZADO;;
+APP CHECK DOC;Lanzamiento;Capacitación y despliegue;Solución liberada;08/04/2026;REALIZADO;;
+APP CHECK DOC;Piloto;Pruebas con personal real;App en uso, con datos de prueba publicados;08/04/2026;REALIZADO;;
+APP PENALIDADES;Sharepoint;Creacion Listas;Primera version UI Aplicacion;08/04/2026;REALIZADO;;
+BI CONTRATOS;Lanzamiento;Publicación;BI liberado;08/04/2026;REALIZADO;;
+BITACORAS DIRECTOS;Producción;Estabilización;Operativo;08/04/2026;REALIZADO;;
+RADICACION ACTAS DE LIQUIDACION (FIRMAS);Levantamiento;Revisión proceso;Propuesta TO-BE;08/04/2026;REALIZADO;;
+RADICACION ACTAS DE LIQUIDACION (FIRMAS);Diseño;UX, estructura;Diseño Sharepoint - Listas - Usuarios - Base;08/04/2026;REALIZADO;;
+APP PENALIDADES;Sharepoint;Creacion Listas;Segunda version UI Aplicacion;10/04/2026;REALIZADO;;
+APP PENALIDADES;Sharepoint;Creacion Listas;Tercera version UI Aplicacion;14/04/2026;REALIZADO;;
+ONAIR;Documentación;Power BI - Terminacion;Entrega Final Power BI OnAir;15/04/2026;REALIZADO;;
+RADICACION ACTAS DE LIQUIDACION (FIRMAS);Desarrollo;Construcción App;Segunda version UI Aplicacion;15/04/2026;REALIZADO;;
+BI CONTRATOS;Pruebas;Validación datos;Aprobación;16/04/2026;REALIZADO;;
+APP PENALIDADES;Sharepoint;Creacion Listas;Version Final Penalidades;22/04/2026;REALIZADO;;
+RADICACION ACTAS DE LIQUIDACION (FIRMAS);Desarrollo;Construcción App;Segunda version UI Aplicacion;22/04/2026;REALIZADO;;
+ACTA SISTEMATIZADA / CASOS DE BAJA;Diseño;UX, estructura;Presentacion APP UI UX Actas de Baja;24/04/2026;REALIZADO;;
+APP GESTION DE ACCESOS ESCALADOS;Diseño;UX, UX Estructura;Presentacion primera Version APP;24/04/2026;REALIZADO;;
+APP PENALIDADES;Desarrollo;Implementación;Tercera version UI Aplicacion - OnAir;24/04/2026;REALIZADO;;
+ONAIR;Lanzamiento;Publicación;BI liberado;24/04/2026;REALIZADO;;
+RADICACION ACTAS DE LIQUIDACION (FIRMAS);Documentación;Construcción App;Tercera Version UX UI Aplicacion;24/04/2026;REALIZADO;;
+ACTA SISTEMATIZADA / CASOS DE BAJA;Diseño;UX, estructura;Segunda Modificacion Estructura UI;29/04/2026;REALIZADO;;
+APP GESTION DE ACCESOS ESCALADOS;Diseño;UX, UX Estructura;Segunda - Modificacion Estetica UI;29/04/2026;REALIZADO;;
+APP PENALIDADES;Pruebas;Penalidades Integracion;Segunda Version - UI Modificada;29/04/2026;REALIZADO;;
+ONAIR;Terminacion;Entrega Total Power BI;Socializacion Entrega;29/04/2026;REALIZADO;;
+RADICACION ACTAS DE LIQUIDACION (FIRMAS);Pruebas;Prueba Funcionamiento;Cuarta version UI Aplicacion + Pruebas;29/04/2026;REALIZADO;;
+RADICACION ACTAS DE LIQUIDACION (FIRMAS);Lanzamiento;Ajustes;Quinta Version UX UI;29/04/2026;REALIZADO;;
+ACTA SISTEMATIZADA / CASOS DE BAJA;Diseño;Pruebas + Presentacion APP;Cuarta Modificacion Estructura UI + Revision Aliados;06/05/2026;REALIZADO;;
+APP PENALIDADES;Pruebas;Penalidades Integracion / Hallazgos;Tercera Version - UI Completa + Listas;06/05/2026;REALIZADO;;
+APP PENALIDADES;Pruebas;Correcion y Creacion de Flujos;Hallazgos y Onair;06/05/2026;REALIZADO;;
+APP PENALIDADES;Pruebas;Modelo de Automatizacion OnAir;Revision con Andrea para Automatizacion de ingreso Casos OnAir;06/05/2026;REALIZADO;;
+PBI ACTAS DE BAJA;Modificacion;Actas N1 y N2;Modificacion Power BI Actas de Baja;06/05/2026;REALIZADO;;
+RADICACION ACTAS DE LIQUIDACION (FIRMAS);Lanzamiento;Presentacion APP entregable;Detalles de Jhon Medina;06/05/2026;REALIZADO;;
+APP PENALIDADES;Pruebas;Penalidades Hallazgos;Pruebas con los Usuarios directamente en la Aplicacion;08/05/2026;REALIZADO;;
+RADICACION ACTAS DE LIQUIDACION (FIRMAS);Flujo;Flujo Gerente;Boton de Firma Masiva para Gerente;08/05/2026;REALIZADO;;
+ACTA SISTEMATIZADA / CASOS DE BAJA;Desarrollo;Pruebas de la Aplicacion;Retroalimentacion - Pruebas Aliados;13/05/2026;REALIZADO;;
+ACTA SISTEMATIZADA / CASOS DE BAJA;Desarrollo;Construcción App;App funcional;13/05/2026;REALIZADO;;
+APP PENALIDADES;Pruebas;Penalidades OnAir;Traer Sitios Nuevos OnAir;13/05/2026;REALIZADO;;
+APP PENALIDADES;Cambios;Penalidades OnAir;Mejora en UX UI // Roles y Comentarios // Flujos de Notificacion;13/05/2026;REALIZADO;;
+CRONOGRAMA DESARROLLOS;Ajuste;Cambios en El Cronograma;Mapa aterrizado Realizados Pendientes y en Proceso;13/05/2026;REALIZADO;;
+RADICACION ACTAS DE LIQUIDACION (FIRMAS);Lanzamiento;Reunion con Linda;Muestra de la aplicacion y funcionalidad;13/05/2026;REALIZADO;;
+REVISION ACTA PACC - FACC SERVICIOS;Levantamiento;Identificación validaciones manuales;Proceso de Mejora de Automatizacion Revisiones;14/05/2026;REALIZADO;;
+REVISION ACTAS LIQUIDACION - HW;Levantamiento;Identificación validaciones manuales;Proceso de Mejora de Automatizacion Revisiones;14/05/2026;REALIZADO;;
+ACTA SISTEMATIZADA / CASOS DE BAJA;Pruebas;Casos reales;Progreso Aplicacion;15/05/2026;REALIZADO;;
+APP PENALIDADES;Pruebas;Penalidades OnAir;Pruebas Flujo Ingreso Sitios OnAir;15/05/2026;REALIZADO;;
+APP PENALIDADES;Cambios;Ajustes de Aplicacion;Cambios y Correciones de la App Vistos Miercoles 13 Mayo;15/05/2026;REALIZADO;;
+RADICACION ACTAS DE LIQUIDACION (FIRMAS);Lanzamiento;Ajustes de Aplicacion, Ingreso de Usuarios;Cambios de Interfaz, Autmatizacion de usuario, Historial Linea;15/05/2026;REALIZADO;;
+RADICACION ACTAS DE LIQUIDACION (FIRMAS);Pruebas;Pruebas con Usuarios Reales;Realizar prueba de Funcionamiento con roles Reales;15/05/2026;REALIZADO;;
+ACTA SISTEMATIZADA / CASOS DE BAJA;Pruebas;Ajustes finales con usuarios;Ajustes de Registro Aplicacion;20/05/2026;REALIZADO;;
+APP PENALIDADES;Cambios;Optimización UX/UI y rendimiento;Versión Final optimizada y estable (Funcional);20/05/2026;REALIZADO;;
+RADICACION ACTAS DE LIQUIDACION (FIRMAS);Desarrollo;Ajustes flujo aprobaciones regionales;Flujo regional actualizado + Notificaciones + UI;20/05/2026;REALIZADO;;
+ACTA SISTEMATIZADA / CASOS DE BAJA;Pruebas;Ajustes finales con usuarios;Ajustes de Registro Aplicacion;22/05/2026;REALIZADO;;
+RADICACION ACTAS DE LIQUIDACION (FIRMAS);Desarrollo;Automatización notificaciones y rechazos;Correos automáticos y control de rechazos;22/05/2026;REALIZADO;;
+GESTION FIRMAS ACTAS DE LIQUIDACION;Automatización;Firma masiva y control estados;Automatización completa líderes regionales;27/05/2026;REALIZADO;;
+RADICACION ACTAS DE LIQUIDACION (FIRMAS);Pruebas;Validación con roles reales;Resultado pruebas funcionales completas;27/05/2026;REALIZADO;;
+REVISION ACTA PACC - FACC HW;Levantamiento;Diseño estructura revisión actas;Modelo UX/UI inicial;27/05/2026;REALIZADO;;
+REVISION ACTAS LIQUIDACION - HW;Diseño;Diseño estructura revisión actas;Modelo UX/UI inicial;27/05/2026;REALIZADO;;
+REVISION DOCUMENTACION DESINSTALACION / DESMONTE;Levantamiento;Revisión proceso documental actual;Identificación validaciones manuales y automatizables;03/06/2026;REALIZADO;;
+REVISION DOCUMENTACION INSTALACION / MIGRACION;Levantamiento;Revisión estructura documental instalación;Documento AS-IS y flujo operativo;03/06/2026;REALIZADO;;
+ACTA SISTEMATIZADA / CASOS DE BAJA;Producción;Estabilización Final;Solución operativa en producción;05/06/2026;REALIZADO;;
+APP PENALIDADES;Carga OnAir;Carga de Informacion OnAir;Carga Automatizada Power Query - Power Automate;05/06/2026;REALIZADO;;
+APP PENALIDADES;Cambios;Corrección hallazgos de la APP;Aplicacion con Correcciones de produccion;05/06/2026;REALIZADO;;
+REVISION SITE FOLDER NOKIA-LOCAL;Levantamiento;Revisión estructura Site Folder;Hallazgos y oportunidades automatización;05/06/2026;REALIZADO;;
+APP PENALIDADES;Cambios;Corrección hallazgos de la APP;Terminacion de Correciones;10/06/2026;REALIZADO;;
+CREACION ACTA SISTEMATIZADA HW BAJA;Diseño;Diseño flujo creación actas;Primera estructura automatizada acta HW;10/06/2026;REALIZADO;;
+CREACION CASO DE RECOLECCION HW BAJA;Diseño;Diseño flujo creación caso;Modelo automatización caso recolección;10/06/2026;REALIZADO;;
+GESTION ACCESOS EB;Levantamiento;Revisión accesos y permisos actuales;Mapa flujo accesos EB;12/06/2026;REALIZADO;;
+REVISION ACTA PACC - FACC HW;Diseño;UX/UI revisión documental;Revision Documental;12/06/2026;REALIZADO;;
+REVISION ACTA PACC - FACC SERVICIOS;Diseño;UX/UI módulo validaciones;Revision Documental;12/06/2026;REALIZADO;;
+REVISION ACTAS LIQUIDACION - HW;SharePoint;UX/UI revisión documental;Revision Documental;12/06/2026;REALIZADO;;
+SOLICITUD ACCESO EB;Diseño;Diseño automatización solicitud acceso;Flujo inicial solicitud accesos;12/06/2026;REALIZADO;;
+REVISION ACTA PACC - FACC HW;Desarrollo;Construcción automatizaciones;Primera versión Documental módulo HW;17/06/2026;REALIZADO;;
+REVISION ACTA PACC - FACC SERVICIOS;Desarrollo;Construcción lógica validaciones;Primera versión documental módulo servicios;17/06/2026;REALIZADO;;
+REVISION ACTAS LIQUIDACION - HW;Desarrollo;Construcción aplicación;Primera versión Documentada HW;17/06/2026;REALIZADO;;
+CREACION ACTA SISTEMATIZADA HW BAJA;Desarrollo;Automatización generación actas;Aplicación funcional generación actas;17/06/2026;REALIZADO;;
+REVISION ACTA PACC - FACC SERVICIOS;Pruebas;Socialización inicio pruebas usuarios;Módulo servicios listo para prueba con actas reales;24/06/2026;HOY;0.85;Mié 24/06 — flujo V7 + validaciones core
+REVISION ACTA PACC - FACC HW;Pruebas;Socialización inicio pruebas usuarios;Módulo HW demostración funcional parcial;24/06/2026;HOY;0.5;Mié 24/06 — alcance parcial vs servicios
+REVISION ACTAS LIQUIDACION - HW;Pruebas;Socialización módulo auditoría HW;Primera demostración checklist HW;24/06/2026;HOY;0.5;Mié 24/06 — alineado con PACC-FACC HW
+VALIDACION HW LINEA A LINEA NOKIA-LOCAL;Levantamiento;Presentación modelo automatización videos IA;Demo investigación revisión videos HW con IA;24/06/2026;HOY;0.15;Mié 24/06 — modelo/concepto, no productivo
+REVISION LINEA A LINEA HW;Investigación;Análisis videos proceso Maira;Documento oportunidades automatización video;24/06/2026;HOY;0.2;Mié 24/06 — base validación línea a línea
+REVISION ACTA PACC - FACC SERVICIOS;Cambios;Ajustes post-prueba desarrollo;Segunda versión con correcciones servicios;27/06/2026;PENDIENTE;0.85;Vie 27/06 — ajustes + pruebas servicios
+REVISION ACTA PACC - FACC HW;Cambios;Ajustes post-prueba desarrollo;Segunda versión con correcciones HW;27/06/2026;PENDIENTE;0.55;Vie 27/06 — ajustes + pruebas HW
+REVISION ACTAS LIQUIDACION - HW;Cambios;Ajustes pruebas usuarios;Segunda versión funcional estable HW;27/06/2026;PENDIENTE;0.55;Vie 27/06 — ajustes módulo HW
+REVISION ACTA PACC - FACC SERVICIOS;Pruebas;Segunda ronda validación usuarios;Validación operativa servicios post-ajustes;27/06/2026;PENDIENTE;0.9;Vie 27/06 — meta ~90% servicios
+REVISION ACTA PACC - FACC HW;Pruebas;Segunda ronda validación usuarios;Validación operativa HW post-ajustes;27/06/2026;PENDIENTE;0.6;Vie 27/06 — pruebas HW
+REVISION ACTA PACC - FACC SERVICIOS;Pruebas;Estabilización y cierre hallazgos;Servicios listos para documentación;01/07/2026;PENDIENTE;0.92;Mié 01/07
+REVISION ACTA PACC - FACC HW;Pruebas;Estabilización módulo HW;HW estable para documentación;01/07/2026;PENDIENTE;0.65;Mié 01/07
+REVISION ACTA PACC - FACC SERVICIOS;Documentación;Manual técnico y usuario;Documentación entregada servicios;03/07/2026;PENDIENTE;0;Vie 03/07
+VALIDACION HW LINEA A LINEA NOKIA-LOCAL;Diseño;Diseño validación automatizada HW;Modelo funcional validación línea a línea;03/07/2026;PENDIENTE;0.15;Vie 03/07 — retomar post PACC/FACC
+REVISION ACTA PACC - FACC HW;Documentación;Manual técnico y usuario;Documentación entregada HW;08/07/2026;PENDIENTE;0;Mié 08/07
+REVISION ACTAS LIQUIDACION - HW;Lanzamiento;Socialización módulo liberado;Módulo HW liberado usuarios piloto;10/07/2026;PENDIENTE;0;Vie 10/07 — meta julio cronograma Oscar
+VALIDACION HW LINEA A LINEA NOKIA-LOCAL;Desarrollo;Construcción validación HW piloto;Validación automática funcional piloto;15/07/2026;PENDIENTE;0;Mié 15/07
+GESTION FIRMAS ACTAS DE LIQUIDACION;Producción;Salida productiva;Entrada a producción tras aval Gestión de Riesgos;15/07/2026;PROCESO;0.9;Mié 15/07 — app ~90%, pendiente aval producción
+RADICACION ACTAS DE LIQUIDACION (FIRMAS);Producción;Estabilización y soporte;Versión estable en producción;17/07/2026;PROCESO;0.9;Vie 17/07 — mismo paquete firmas, post-aval
+RADICACION ACTAS DE LIQUIDACION (FIRMAS);Firmas Digitales;Investigar Adobe Sign;Propuesta firmas digitales (fase 2);22/07/2026;PROCESO;0.1;Mié 22/07 — baja prioridad, post-producción
+CREACION CASO DE RECOLECCION HW BAJA;Desarrollo;Automatización creación casos;Flujo funcional generación casos;07/08/2026;PENDIENTE;0.3;Vie 07/08 — Livan
+CREACION ACTA SISTEMATIZADA HW BAJA;Producción;Estabilización y pruebas aliados;Acta HW baja operativa;12/08/2026;PENDIENTE;0.7;Mié 12/08 — Livan
+GESTION ACCESOS EB;Desarrollo;Construcción automatización accesos;Aplicación en pruebas funcional;14/08/2026;PROCESO;0.4;Vie 14/08 — Andrea
+SOLICITUD ACCESO EB;Desarrollo;Construcción flujo solicitud;Flujo funcional solicitud accesos;19/08/2026;PENDIENTE;0.25;Mié 19/08 — Andrea
+REVISION FORMATOS FSE;Levantamiento;Revisión criterios validación FSE;Documento validaciones FSE;02/09/2026;PENDIENTE;0;Mié 02/09 — cronograma Oscar
+REVISION Y CONCEPTO DE TSS;Levantamiento;Revisión criterios validación TSS;Documento validaciones TSS;02/09/2026;PENDIENTE;0;Mié 02/09 — Regionales Acceso
+ACTUALIZACION POR SITIO EN PORTAL RF;Levantamiento;Revisión actualización RF;Flujo funcional actualización portal RF;04/09/2026;PENDIENTE;0;Vie 04/09 — Jose Cardenas
+REVISION FORMATOS FSE;Diseño;Diseño validaciones formatos;Modelo automatización formatos FSE;09/09/2026;PENDIENTE;0;Mié 09/09
+REVISION DOCUMENTACION DESINSTALACION / DESMONTE;Desarrollo;Construcción validaciones automáticas;Primera versión funcional desmonte;11/09/2026;PENDIENTE;0.1;Vie 11/09 — solo levantamiento hecho
+REVISION DOCUMENTACION INSTALACION / MIGRACION;Desarrollo;Construcción validaciones automáticas;Primera versión funcional instalación;11/09/2026;PENDIENTE;0.1;Vie 11/09 — solo levantamiento hecho
+ASIGNACION ACTIVIDAD ALIADO;Diseño;Diseño flujo asignación actividades;Primera versión automatización asignación;16/09/2026;PENDIENTE;0;Mié 16/09
+APROBACION ID TRABAJOS SITE ACCESS;Diseño;Diseño aprobación IDs;Flujo automatizado aprobaciones;16/09/2026;PENDIENTE;0;Mié 16/09
+CREACION ID TRABAJOS SITE ACCESS;Diseño;Diseño creación IDs;Flujo automatizado creación IDs;18/09/2026;PENDIENTE;0;Vie 18/09
+REVISION SITE FOLDER NOKIA-LOCAL;Desarrollo;Construcción validación Site Folder;Automatización revisión documental;23/09/2026;PENDIENTE;0.05;Mié 23/09
+IMPLEMENTACION RUTA TX;Levantamiento;Revisión proceso implementación TX;Documento flujo operativo TX;23/09/2026;PENDIENTE;0;Mié 23/09
+PLANIFICACION MIGRACION / RUTA TX;Levantamiento;Identificación flujo migración;Documento planificación automatizable;25/09/2026;PENDIENTE;0;Vie 25/09
+CREACION USUARIO;Diseño;Diseño automatización creación usuarios;Flujo automatizado creación usuario;25/09/2026;PENDIENTE;0;Vie 25/09 — Jessica Moreno
+DESBLOQUEO USUARIO;Diseño;Diseño automatización desbloqueos;Flujo automatizado desbloqueo;30/09/2026;PENDIENTE;0;Mié 30/09 — Jessica Moreno
+GESTION DE OTS;Diseño;Diseño automatización OTS;Primera estructura automatización OTS;30/09/2026;PENDIENTE;0;Mié 30/09
+GESTION PERMISOS ACCESO / VENTANAS MANTENIMIENTO;Diseño;Diseño flujo permisos mantenimiento;Flujo automatizado permisos;02/10/2026;PENDIENTE;0;Vie 02/10
+SEGUIMIENTO IMPLEMENTACION TX;Diseño;Diseño seguimiento automatizado;Modelo seguimiento implementación;07/10/2026;PENDIENTE;0;Mié 07/10
+SEGUIMIENTO IMPLEMENTACION ACCESO;Diseño;Diseño seguimiento accesos;Flujo seguimiento accesos;07/10/2026;PENDIENTE;0;Mié 07/10
+SEGUIMIENTO ENTREGA HITOS INSTALACION E INTEGRACION;Diseño;Diseño seguimiento hitos;Modelo control hitos integración;09/10/2026;PENDIENTE;0;Vie 09/10
+SEGUIMIENTO RFIC;Diseño;Diseño seguimiento RFIC;Flujo control RFIC;09/10/2026;PENDIENTE;0;Vie 09/10
