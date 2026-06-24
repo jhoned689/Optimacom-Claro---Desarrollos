@@ -3,11 +3,8 @@
 ## 1. Crear el repositorio en GitHub
 
 1. Entra a [github.com/new](https://github.com/new)
-2. Nombre sugerido: `optimacom-cronograma-desarrollos`
-3. Descripción: `Cronograma y seguimiento de desarrollos Optimacom`
-4. Público o privado (recomendado **privado** si hay nombres internos)
-5. **No** marques "Add README" — ya existe uno local
-6. Clic en **Create repository**
+2. Nombre: `Optimacom-Claro---Desarrollos` (ya creado)
+3. URL: https://github.com/jhoned689/Optimacom-Claro---Desarrollos
 
 ## 2. Subir desde tu PC
 
